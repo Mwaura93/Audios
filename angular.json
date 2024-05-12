@@ -32,7 +32,10 @@
             "tsConfig": "tsconfig.app.json",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/assets/A Thousand Years.mp3",
+              "src/assets/So Far Away.mp3",
+              "src/assets/The Night we meet .mp3"
             ],
             "styles": [
               "src/styles.css"
@@ -96,7 +99,10 @@
             "tsConfig": "tsconfig.spec.json",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/assets/A Thousand Years.mp3",
+              "src/assets/So Far Away.mp3",
+              "src/assets/The Night we meet .mp3"
             ],
             "styles": [
               "src/styles.css"
